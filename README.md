@@ -1,5 +1,9 @@
-npm install : for get npm modules!
-npm start for starting application!
+# npm install
+### for get npm modules!
+# npm start
+### for starting application!
+## -------------------------------
+
 
 # Getting Started with Create React App
 
